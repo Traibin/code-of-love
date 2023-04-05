@@ -1,7 +1,7 @@
 #include<iostream>
 #include<stdio.h>
 #include<windows.h>
-int main012()
+int main()
 {
 	float x, y, a;
 	for (y = 1.5; y > -1.5; y -= 0.1)
